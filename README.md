@@ -25,4 +25,4 @@ This program is capable of compressing and decompressing a text consisting of th
 ***Huffman Algorithm serializes the encoded text as a binary/decimal sequence and the Huffman binary tree corresponding to that in order to decode back the text in the future.***
 
 Here is a sample output:
-![output](output.png)
+![Output](Output.png)
